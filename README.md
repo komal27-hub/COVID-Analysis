@@ -1,2 +1,2 @@
 # Description
-
+For our project we will conduct exploratory analysis on Covid 19 dataset for January to April (2020) globally. It's so hard to see into the future of Covid 19. The most difficult thing for an epidemiological model to predict human behavior. Dr. Brian Monahan, the attending physician of the U.S. Congress, predicts 70 million-150 million U.S. coronavirus cases are expected. In order, to make every best possible way to reduce this virus to spread data needs to be analyzed.
